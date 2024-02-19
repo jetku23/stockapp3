@@ -1,0 +1,22 @@
+{
+    "https://rconnect.kseconnect.com/": {
+        "server_url": "https://rconnect.kseconnect.com/",
+        "filename": "/home/jetson.ku/Avalanche-Analytics/development/jetson/stock-dashboard-python",
+        "app_url": "https://rconnect.kseconnect.com/content/d248d610-71fd-4ccd-8cf2-06a484180631/",
+        "app_id": 253,
+        "app_guid": "d248d610-71fd-4ccd-8cf2-06a484180631",
+        "title": "stock-dashboard-python",
+        "app_mode": "python-dash",
+        "app_store_version": 1
+    },
+    "https://rconnect.kseconnect.com": {
+        "server_url": "https://rconnect.kseconnect.com",
+        "filename": "/home/jetson.ku/Avalanche-Analytics/development/jetson/stock-dashboard-python",
+        "app_url": "https://rconnect.kseconnect.com/content/168e7084-4df0-429d-b279-af3b195bfb48/",
+        "app_id": "168e7084-4df0-429d-b279-af3b195bfb48",
+        "app_guid": "168e7084-4df0-429d-b279-af3b195bfb48",
+        "title": "stock-dashboard-python",
+        "app_mode": "python-dash",
+        "app_store_version": 1
+    }
+}

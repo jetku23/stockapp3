@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.2.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "app.py",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "app.py": {
+      "checksum": "6fd041257dcb13ba0cb57a9cfd043603"
+    },
+    "prices.csv": {
+      "checksum": "e0bc27e3dd358c360863807e09079985"
+    },
+    "README.md": {
+      "checksum": "37d09f016f0484534bd89d185d5986a3"
+    },
+    "requirements.txt": {
+      "checksum": "2ff14ec69d1cd98ed4eb6ae2eea75554"
+    },
+    "UntitledR.R": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+  },
+  "users": null
+}
